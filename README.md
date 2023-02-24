@@ -17,13 +17,11 @@
 
 <h3 align="left">Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,css,py,java,js,r,kotlin,dart,figma,flutter,wordpress,github,vscode,idea,androidstudio,ps,)]
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,js,r,kotlin,dart,figma,flutter)](https://skillicons.dev)
 
 <h3 align="left">Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,wordpress,github,vscode,idea,androidstudio,ps)]
 
-(https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,wordpress,github,vscode,idea,androidstudio,ps)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manulaperera12&show_icons=true&locale=en&layout=compact" alt="manulaperera12" /></p>
 
