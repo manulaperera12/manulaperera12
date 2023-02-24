@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,js,r,kotlin,dart,figma,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,r,kotlin,dart,figma,flutter)](https://skillicons.dev)
 
 <h3 align="left">Tools:</h3>
 
