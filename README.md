@@ -15,9 +15,15 @@
 <a href="https://instagram.com/manula._perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manula._perera" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,css,py,java,js,r,kotlin,dart,figma,flutter,wordpress,github,vscode,idea,androidstudio,ps,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,css,py,java,js,r,kotlin,dart,figma,flutter,wordpress,github,vscode,idea,androidstudio,ps,)]
+
+<h3 align="left">Tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,wordpress,github,vscode,idea,androidstudio,ps)]
+
+(https://skillicons.dev)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manulaperera12&show_icons=true&locale=en&layout=compact" alt="manulaperera12" /></p>
 
