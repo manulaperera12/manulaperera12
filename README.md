@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Kotlin**
 
-- 💬 Ask me about **Html, CSS, WordPress, Java**
+- 💬 Ask me about **Html, CSS, JS, WordPress, Java, Kotlin, Flutter**
 
 - 📫 How to reach me **manulaperera1232@gmail.com**
 
